@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="suggestion">Выберите вид пива:</string>
+    <string name="find_beer">Найти сорта пива!</string>
+    <string name="brands">Не найдено ни одного сорта пива</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
